@@ -1,0 +1,2 @@
+# blog
+blog.ryuusei.io
